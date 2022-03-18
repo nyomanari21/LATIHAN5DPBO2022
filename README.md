@@ -11,6 +11,7 @@ A. Jenis dan ukuran font diganti di bagian properties -> font
 B. Nama variabel tiap komponen diganti di bagian properties -> code -> Variable Name
 <br><br>
 C. Validasi ketika input tidak lengkap ditambahkan di prosedur inputData, ditambahkan pengkondisian, jika text field untuk nim, nama, dan fungsi belum terisi, maka tampilkan pesan "Input data tidak lengkap" dan data tidak akan diinput ke listMhs
+<br>
 ![SS Validasi](https://user-images.githubusercontent.com/90953569/159034985-53969de0-004e-48b2-a928-5501eda0880a.png)
 <br><br>
 D. Penghapusan data di text field dibuat dengan mengisi txtFieldNim, txtFieldNama, dan txtFieldNilai dengan nilai null di prosedur btnCancel, btnAdd, dan btnDelete
