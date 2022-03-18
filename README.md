@@ -5,7 +5,7 @@ Saya Nyoman Ari Satyadharma 2000831 mengerjakan LATIHAN5DPBO2022 dalam mata kuli
 ##Penjelasan singkat
 
 ![SS Menu](https://user-images.githubusercontent.com/90953569/159036305-338c4fdc-1661-40db-a3fe-a9bad02b56e8.png)
-<br>
+<br><br>
 A. Jenis dan ukuran font diganti di bagian properties -> font
 <br>
 ![SS font](https://user-images.githubusercontent.com/90953569/159036771-c04e7787-10c8-4a55-bd28-9d7b514e8287.png)
